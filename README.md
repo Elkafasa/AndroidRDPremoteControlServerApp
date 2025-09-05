@@ -1,5 +1,7 @@
 # AndroidRDPremoteControlServerApp
-This app runs an RDP remote control server that can be discovered by devices on the same wifi                                                                                    Features:
+This app runs an RDP remote control server that can be discovered by devices on the same wifi                                                                                  
+
+Features:
 1) support for touch control
 2) support for controllers
 3) mouse support
